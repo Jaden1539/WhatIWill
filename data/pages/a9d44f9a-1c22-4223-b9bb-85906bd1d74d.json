@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-18T20:57:57.361Z",
+  "created_by": "Jaden1539",
+  "title": "What I Will",
+  "slug": "what-i-will",
+  "updated_at": "2025-03-18T20:57:57.361Z",
+  "updated_by": "Jaden1539",
+  "parent": "7da8ec33-b84d-49e9-85b2-939cd91a3160",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "85d75c95-27b1-429a-8dae-0b850a88eb77"
+  }
+}
