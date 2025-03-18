@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 1,
-      "end_time": 3,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Transcription",
-          "category": "Background"
-        }
-      ],
-      "uuid": "8b79728a-dc76-4472-a567-0a743edc041f"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "85d75c95-27b1-429a-8dae-0b850a88eb77",
   "source_id": "e0fd8ede-0220-47af-9bc3-75e1501baeae"
