@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I Will"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "be223b33-ee65-4ea6-9f51-e8be6b4466dc"
+    }
+  ],
   "set": "Default",
   "event_id": "85d75c95-27b1-429a-8dae-0b850a88eb77",
   "source_id": "e0fd8ede-0220-47af-9bc3-75e1501baeae"
