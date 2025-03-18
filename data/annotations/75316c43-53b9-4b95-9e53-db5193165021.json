@@ -20,22 +20,6 @@
         }
       ],
       "uuid": "8b79728a-dc76-4472-a567-0a743edc041f"
-    },
-    {
-      "start_time": 3,
-      "end_time": 4,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Pause"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "3cd3a6db-7585-4c66-82f2-22557d66d6ae"
     }
   ],
   "set": "Default",
