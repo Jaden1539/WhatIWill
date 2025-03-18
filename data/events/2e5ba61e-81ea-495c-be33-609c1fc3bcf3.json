@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "819162a4-0713-47ec-8bd6-93ca7b84be0c": {
+      "label": "What I Will",
+      "is_offline": false,
+      "file_url": "https://ia600109.us.archive.org/16/items/sample-hammad/Sample%20Hammad.mp3",
+      "duration": 96
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Hammad, Suheir. \"What I Will.\"",
+  "label": "What I Will",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Suheir Hammad reading her poem \"What I Will\" for a TEDTalk."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-18T20:45:54.320Z",
+  "created_by": "Jaden1539",
+  "updated_at": "2025-03-18T20:45:54.320Z",
+  "updated_by": "Jaden1539"
+}
