@@ -1050,7 +1050,11 @@
       ],
       "tags": [
         {
-          "tag": "Audience Sounds",
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
           "category": "Extra-Poetic Sounds"
         }
       ],
