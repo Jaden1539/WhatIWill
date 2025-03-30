@@ -803,11 +803,11 @@
       ],
       "tags": [
         {
-          "tag": "Tempo",
+          "tag": "Amplitude",
           "category": "Performance"
         },
         {
-          "tag": "Amplitude",
+          "tag": "Tempo",
           "category": "Performance"
         }
       ],
