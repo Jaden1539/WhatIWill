@@ -675,10 +675,6 @@
         {
           "tag": "Amplitude",
           "category": "Performance"
-        },
-        {
-          "tag": "Identification",
-          "category": "Background"
         }
       ],
       "uuid": "f1d90fce-4287-42d6-acf6-3c5cf384e539"
