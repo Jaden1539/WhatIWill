@@ -954,15 +954,15 @@
       ],
       "tags": [
         {
-          "tag": "Tempo",
-          "category": "Performance"
-        },
-        {
           "tag": "Amplitude",
           "category": "Performance"
         },
         {
           "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
           "category": "Performance"
         }
       ],
