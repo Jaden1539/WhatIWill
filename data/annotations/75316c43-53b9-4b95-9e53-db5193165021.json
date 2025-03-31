@@ -801,6 +801,10 @@
         {
           "tag": "Tempo",
           "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
         }
       ],
       "uuid": "2d6ba1ca-fcb3-473a-b62a-52766ca06f87"
