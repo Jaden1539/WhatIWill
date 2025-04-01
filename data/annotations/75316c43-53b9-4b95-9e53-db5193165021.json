@@ -1167,6 +1167,27 @@
         }
       ],
       "uuid": "16052e8b-a447-4e89-b38c-b6f915fa2d8e"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hammad takes sharp breaths in this line again. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "ae017bb5-91b0-4bdf-a50e-9645be4db88f"
     }
   ],
   "set": "Default",
