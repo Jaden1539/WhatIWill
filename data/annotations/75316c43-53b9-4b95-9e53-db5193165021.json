@@ -872,6 +872,10 @@
         {
           "tag": "Tempo",
           "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
         }
       ],
       "uuid": "18fa2d8c-7086-4270-8f27-0c892829eb32"
