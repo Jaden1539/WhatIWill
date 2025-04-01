@@ -1134,6 +1134,22 @@
         }
       ],
       "uuid": "811237d6-1d4e-4653-ad04-20a5919f2eed"
+    },
+    {
+      "start_time": 94,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hammad says \"understand\" like \"understan\" dropping the last d. Again, this hints at the culture she grew up around with the accent nuance she has picked up."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16052e8b-a447-4e89-b38c-b6f915fa2d8e"
     }
   ],
   "set": "Default",
