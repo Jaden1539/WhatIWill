@@ -104,15 +104,11 @@
         {
           "tag": "Tempo",
           "category": "Performance"
-        },
-        {
-          "category": "Background",
-          "tag": "Title"
         }
       ]
     },
     "created_at": "2025-03-18T20:37:45.317Z",
-    "updated_at": "2025-04-01T01:40:20.394Z",
+    "updated_at": "2025-04-01T01:40:57.317Z",
     "generate_pages_site": true
   },
   "is_private": false
