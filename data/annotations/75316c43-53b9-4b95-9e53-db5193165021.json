@@ -1199,6 +1199,27 @@
         }
       ],
       "uuid": "ae017bb5-91b0-4bdf-a50e-9645be4db88f"
+    },
+    {
+      "start_time": 36,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hammad sustains the word \"die\" to accentuate it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "992c46a5-5836-459a-adfa-9098974fcd1e"
     }
   ],
   "set": "Default",
