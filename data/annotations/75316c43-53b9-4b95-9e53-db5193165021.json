@@ -1159,7 +1159,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hammad says \"understand\" like \"understan\" dropping the last d. Again, this hints at the culture she grew up around with the accent she has."
+              "text": "Hammad says \"understand\" like "
+            },
+            {
+              "text": "understan, ",
+              "italic": true
+            },
+            {
+              "text": "dropping the last d. Again, this hints at the culture she grew up around with the accent she has."
             }
           ]
         }
