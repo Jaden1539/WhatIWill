@@ -920,6 +920,10 @@
       ],
       "tags": [
         {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
           "tag": "Tempo",
           "category": "Performance"
         }
