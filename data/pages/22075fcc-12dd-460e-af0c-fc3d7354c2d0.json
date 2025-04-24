@@ -4,23 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Works Cited"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Bernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, Oxford University Press, New York, New York, 1998, pp. 3–26, "
+          "text": "\nBernstein, Charles. “Introduction.” Close Listening: Poetry and the Performed Word, Oxford University Press, New York, New York, 1998, pp. 3–26, "
         },
         {
           "type": "link",
@@ -33,6 +17,14 @@
         },
         {
           "text": ". Accessed 14 Mar. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -60,6 +52,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Hammad, Suheir. “What I Will” Internet Archive, 14 Mar. 2025, "
         },
         {
@@ -80,6 +80,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Knopf-Newman, Marcy Jane. “Interview with Suheir Hammad.” MELUS, vol. 31, no. 4, 2006, pp. 71–91. JSTOR, "
         },
         {
@@ -93,6 +101,14 @@
         },
         {
           "text": ". Accessed 11 Apr. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -134,6 +150,6 @@
   "slug": "works-cited",
   "created_at": "2025-04-24T23:26:25.676Z",
   "created_by": "Jaden1539",
-  "updated_at": "2025-04-24T23:26:25.676Z",
+  "updated_at": "2025-04-24T23:29:02.481Z",
   "updated_by": "Jaden1539"
 }
